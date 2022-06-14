@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aari-test-agent-fafl",
+  "private_key_id": "ed69179a6fb16ec4d6f04e22de51b2082eb785cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsGAd+Gj8YLG+H\nx/npFyK6Seah8HfjAu9CIkDUZgTlygzdpZpICaAdAnNFL2D6nPY/V5GThB+kF44F\nJHqSqp3vbcQ5qqkhHeNksaE9Jvu/Gb090ACz353e458CT5RUS1ISqotO67f/6trE\n+WlsmINc+IHBGk7DOdcNyvTX7D39R1UyEdD5s91ihEeiMnBe2AsVinMlKv7P58Uc\nVaQxBsBjjbAoFts0MsUp+fD7md8VplRZX2DIcy8SpFMfC0lCHrfqyGH1WL3+d4c7\nTZLTQ/q5E7DNeCYM1EBm7tRhA8EBVfLrf+4H6K6RaAwSo77Mhz9ZpUzSv5S83gOU\nd/QLqY2fAgMBAAECggEAAb/HBFL+LjzqWjFydV/2JEsIFhWMgLJfcGJKh7J9VHdN\nu9bs+p3yL48dWMkcS8l9kEUZecMhbe0A/+CnY07uisUJdiClfPg90GKg5PTvP/PS\nnIDf+PQN4H6Ljvci2yGgjE2wBjasmyJUokQZyeR08XfjgR95jmcst3debLVHwtzt\n1hq+aYcBcK+koljv8L3s6ByDulvA04E5VHU2iNFbU69WzuYXzjhQfWmmXY9t/wNG\nheU+Zbkqgu1T9yh51OTOoIjALGipIoOOJncP245o3INhkwgYAtXgXEb+ldILJHNq\nJfgjFPyIdZNKE7cu/IP36f/01nXBPo7sHUZ7BhUbKQKBgQDmpafnBCNXBZS+oB+1\nEkVvQ6rPRxMwtc4EfzDU233UEBhnxh9l9k9gLF80rsFNFLs7lwj93mspZO8oTMIg\nyb8bNu51XKbL5vxpn3TGw5TPsaPKVjtmMJGyblrRTY/pYicxu1Szv9AHqjWIytsP\nDMLjast377VqCcBATdSiAbe8qQKBgQC/ArO6BjWZKvKOesgLe+JlynHKju39DaMt\nMONNn/XvDXuCoHl/AlGS5lz8S+xS5c/1hCY1zEk1a845ekZm4q2+djDquWQw2BB9\ngFC4v0x7J7hgJjPpPL09zcgp9rfyH/Migd4cQ0V2xMZTVM8bgpttOOf8Ycu8F5xm\nm3GZRYpdBwKBgDDRGQN1RcGSZdQe8fcSIe4VxV5PrckegbdD8GLs/enXakL0lQqw\nokY5vgDZiAI3hBVttzJ8U/QT7+Z4sJHeAXvSGZBvhsIbZos4e6/iD2oSMBeQPsw3\nNW8tmj04jGAaLS+CdcABthcZOHF2dfzud4VIwj3lV2FVJQK3Nmz/rhLZAoGAKqVH\nyzinrtLP5M+06ht2qJNSZI8Uw3LQA77ugN494ml4MenyNlEmNU4JZKru0HNOwtoG\nTeyWS78OA/cw0Le7YtKwiTdrDxyuUdbcLuNHCBgOKildXa2Z8rqG/hd/aieH+SRV\nmqnKUIIOZXyB4PqACRqzcL3E5vG+kYoTCs1j3vECgYEApjW7bqsI5EQv06A9jJr8\nLJq2C+xWCd6+FWy6jNR2xGfPS61H0+Hv3oVO5dy48J0Ew+uUCPK8B3+4sQArN5a5\ncz7wEblGiymyVqKoagd9cEQnvAnOKSoMwLdmqgvjZcq+3f4piUc40hWbJNRF0id5\nLJ3HPg3WdoIRa0ivbuFlf3M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "serviceaccountaari@aari-test-agent-fafl.iam.gserviceaccount.com",
+  "client_id": "108206656286031987719",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serviceaccountaari%40aari-test-agent-fafl.iam.gserviceaccount.com"
+}
